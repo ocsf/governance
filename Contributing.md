@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-This Project welcomes contributions, suggestions, and feedback. All contributions, suggestions, and feedback submitted are accepted under the [Project's license](https://github.com/ocsf/ocsf-docs/blob/main/MVG%20Documents/License.md) via Developer’s Certificate of Origin 1.1 (DCO). Additionally, contributors represent that if they do not own copyright in the code, that they have the authority to submit each  contribution under the [Project's license](https://github.com/ocsf/ocsf-docs/blob/main/MVG%20Documents/License.md). All public feedback, suggestions, or contributions are not confidential.
+This Project welcomes contributions, suggestions, and feedback. All contributions, suggestions, and feedback submitted are accepted under the [Project's license](./License.md) via Developer’s Certificate of Origin 1.1 (DCO). Additionally, contributors represent that if they do not own copyright in the code, that they have the authority to submit each  contribution under the [Project's license](./License.md). All public feedback, suggestions, or contributions are not confidential.
 
 Each Project repository will include information about the DCO in their CONTRIBUTING file, and will use automation, such as GitHub Actions, to ensure each contribution follows this.
 
