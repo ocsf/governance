@@ -2,7 +2,7 @@
 
 This is the organizational charter for the Open Cybersecurity Framework (OCSF) Organization (the "Organization"). By adding their name to the Steering Committee.md file, Steering Committee members agree as follows.
 ## 1. Mission
-The mission of the OCSF is to create an industry-wide framework for data aggregation and analysis principally for cybersecurity use cases. There are other dictionaries and schemas available from data consumer vendors, but none are fully open and few have structured taxonomies for extensibility. The OCSF is unique in its strongly typed structure, modern day data standards, and thoughtful approach to data consistency and normalization.
+The mission of the OCSF is to create an industry-wide framework for data exchange, aggregation and analysis, principally but not exclusively for cybersecurity use cases. The OCSF is centered on its strongly typed data structures, standard attribute dictionary and taxonomy structure, and extensible core schema.
 
 ## 2. Steering Committee
 1. Purpose. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
