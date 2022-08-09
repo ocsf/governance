@@ -9,6 +9,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Julian Crowley | Sumo Logic | jc-sumo |
 | André Guerlain | Rapid7 | flipsbits |
 | Ania Kacewicz | IronNet | aniak5 |
+| Michael Laudenslager | IronNet | |
 
 ---
 Part of MVG-0.1-beta.
