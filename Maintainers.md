@@ -5,7 +5,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | **NAME** | **Organization** |
 | --- | --- |
 | Josh Pavel | AWS |
-| Maintainer 2 | |
+| Rajas Panat | AWS |
 
 ---
 Part of MVG-0.1-beta.
