@@ -6,6 +6,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | --- | --- | -- |
 | Josh Pavel | AWS | paveljos |
 | Rajas Panat | AWS | floydtree |
+| Julian Crowley | Sumo | |
 
 ---
 Part of MVG-0.1-beta.
