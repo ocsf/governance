@@ -5,7 +5,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | **NAME** | **Organization** | **GitHub Handle** |
 | --- | --- | -- |
 | Josh Pavel | AWS | paveljos |
-| Rajas Panat | AWS |
+| Rajas Panat | AWS | floydtree |
 | Julian Crowley | Sumo Logic | jc-sumo 
 
 ---
