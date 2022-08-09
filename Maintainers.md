@@ -13,7 +13,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | JP Harvey | DTEX | |
 | Mike Radka | Splunk | |
 | Roumen Roupski | Splunk | |
-| Json Reimer | Tanium | |
+| Jason Reimer | Tanium | |
 
 ---
 Part of MVG-0.1-beta.
