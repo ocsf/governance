@@ -6,7 +6,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | --- | --- | -- |
 | Josh Pavel | AWS | paveljos |
 | Rajas Panat | AWS | floydtree |
-| Julian Crowley | Sumo Logic | |
+| Julian Crowley | Sumo Logic | jc-sumo |
 | André Guerlain | Rapid7 | flipsbits |
 
 ---
