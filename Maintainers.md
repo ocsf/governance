@@ -14,6 +14,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Mike Radka | Splunk | mr-splunk |
 | Roumen Roupski | Splunk | |
 | Jason Reimer | Tanium | |
+| Trend Micro | Trend Micro | trendmicro |
 
 ---
 Part of MVG-0.1-beta.
