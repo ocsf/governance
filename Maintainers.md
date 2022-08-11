@@ -15,7 +15,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Roumen Roupski | Splunk | |
 | Jason Reimer | Tanium | |
 | Trend Micro | Trend Micro | trendmicro |
-| Irakle Dzneladze | IBM | |
+| Irakle Dzneladze | IBM | irakledibm |
 
 ---
 Part of MVG-0.1-beta.
