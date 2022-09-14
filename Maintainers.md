@@ -9,7 +9,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Julian Crowley | Sumo Logic | jc-sumo |
 | André Guerlain | Rapid7 | flipsbits |
 | Ania Kacewicz | IronNet | aniak5 |
-| Michael Laudenslager | IronNet | |
+| Michael Laudenslager | Independent | |
 | JP Harvey | DTEX | |
 | Mike Radka | Splunk | mr-splunk |
 | Roumen Roupski | Splunk | |
