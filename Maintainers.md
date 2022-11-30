@@ -8,7 +8,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Rajas Panat | AWS | floydtree |
 | Julian Crowley | Sumo Logic | jc-sumo |
 | André Guerlain | Rapid7 | flipsbits |
-| Ania Kacewicz | IronNet | aniak5 |
+| Ania Kacewicz | Independent | aniak5 |
 | Michael Laudenslager | Independent | |
 | JP Harvey | DTEX | |
 | Mike Radka | Splunk | mr-splunk |
