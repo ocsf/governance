@@ -6,6 +6,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | --- | --- | --- |
 |  Paul Agbabian | pagbabian-splunk | Splunk |
 |  Keith Gilbert |AWSSecEng| AWS |
+|  Jason Keirstead | JasonKeirstead | IBM
 
 ---
 Part of MVG-0.1-beta.
