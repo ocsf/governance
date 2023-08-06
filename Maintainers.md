@@ -4,18 +4,18 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 
 | **NAME** | **Organization** | **GitHub Handle** |
 | --- | --- | -- |
-| Josh Pavel | AWS | paveljos |
 | Rajas Panat | AWS | floydtree |
 | Julian Crowley | Sumo Logic | jc-sumo |
 | André Guerlain | Rapid7 | flipsbits |
-| Ania Kacewicz | Independent | aniak5 |
-| Michael Laudenslager | Independent | |
+| Ania Kacewicz | Splunk | aniak5 |
 | JP Harvey | DTEX | |
 | Mike Radka | Splunk | mr-splunk |
 | Roumen Roupski | Splunk | |
 | Jason Reimer | Tanium | |
-| Trend Micro | Trend Micro | trendmicro |
 | Irakle Dzneladze | IBM | irakledibm |
+| Matthew Tharp | Comcast | mtharp0
+| Christopher Schmitt | CrowdStrike | tankbusta
+| Max Hotta | Broadcom | maxhotta
 
 ---
 Part of MVG-0.1-beta.
