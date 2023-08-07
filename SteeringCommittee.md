@@ -5,8 +5,8 @@ This document lists the members of the Organization's Steering Committee. Voting
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
 |  Paul Agbabian | pagbabian-splunk | Splunk |
-|  Keith Gilbert |AWSSecEng| AWS |
-|  Rich Telljohann | n/a | IBM
+|  Keith Gilbert | AWSSecEng | AWS |
+|  Rich Telljohann |  rtelljohann-ibm | IBM
 
 ---
 Part of MVG-0.1-beta.
