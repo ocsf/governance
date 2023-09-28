@@ -9,7 +9,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | André Guerlain | Rapid7 | flipsbits |
 | Ania Kacewicz | Splunk | aniak5 |
 | JP Harvey | DTEX | jp-harvey |
-| Mike Radka | Splunk | mr-splunk |
+| Mike Radka | Splunk | mikeradka |
 | Roumen Roupski | Splunk | rroupski-splunk |
 | Jason Reimer | Tanium | jasonbreimer |
 | Irakle Dzneladze | IBM | irakledibm |
