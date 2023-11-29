@@ -16,6 +16,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Matthew Tharp | Comcast | mtharp0
 | Christopher Schmitt | CrowdStrike | tankbusta
 | Max Hotta | Broadcom | maxhotta
+| Alan Pinkert | Cisco | alanisaac
 
 ---
 Part of MVG-0.1-beta.
