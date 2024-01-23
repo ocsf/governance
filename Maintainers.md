@@ -18,6 +18,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Max Hotta | Broadcom | maxhotta
 | Alan Pinkert | Cisco | alanisaac
 | Jeremy Fisher | Query.io | query-jeremy
+| Zachary Schmerber | Atlassian | zschmerber
 
 ---
 Part of MVG-0.1-beta.
