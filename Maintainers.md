@@ -10,11 +10,8 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | Ania Kacewicz | Splunk | aniak5 |
 | JP Harvey | DTEX | jp-harvey |
 | Mike Radka | Splunk | mikeradka |
-| Roumen Roupski | Splunk | rroupski-splunk |
 | Jason Reimer | Tanium | jasonbreimer |
 | Irakle Dzneladze | IBM | irakledibm |
-| Matthew Tharp | Comcast | mtharp0
-| Christopher Schmitt | CrowdStrike | tankbusta
 | Max Hotta | Broadcom | maxhotta
 | Alan Pinkert | Cisco | alanisaac
 | Jeremy Fisher | Query.io | query-jeremy
