@@ -4,6 +4,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 
 | **NAME** | **Organization** | **GitHub Handle** |
 | --- | --- | -- |
+| Paul Agbabian | Splunk | pagbabian-splunk |
 | Rajas Panat | AWS | floydtree |
 | Julian Crowley | Sumo Logic | jc-sumo |
 | André Guerlain | Rapid7 | flipsbits |
