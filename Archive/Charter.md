@@ -1,3 +1,9 @@
+# OUTDATED / HISTORICAL
+This document outdated and is retained solely for historical reasons.
+
+As of November 18, 2024 this document has been replaced by the [OCSF Technical Charter](https://github.com/ocsf/governance/blob/main/OCSF%20Technical%20Charter.pdf).
+
+
 # Charter for the OCSF Organization
 
 This is the organizational charter for the Open Cybersecurity Framework (OCSF) Organization (the "Organization"). By adding their name to the Steering Committee.md file, Steering Committee members agree as follows.
