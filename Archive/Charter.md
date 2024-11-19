@@ -1,5 +1,5 @@
 # OUTDATED / HISTORICAL
-This document outdated and is retained solely for historical reasons.
+This document is outdated and is retained solely for historical reasons.
 
 As of November 18, 2024 this document has been replaced by the [OCSF Technical Charter](https://github.com/ocsf/governance/blob/main/OCSF%20Technical%20Charter.pdf).
 
