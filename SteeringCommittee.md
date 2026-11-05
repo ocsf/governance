@@ -4,9 +4,18 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
-|  Paul Agbabian | pagbabian-splunk | Splunk |
-|  Keith Gilbert | AWSSecEng | AWS |
-|  Rich Telljohann |  rtelljohann-ibm | IBM
+|  Paul Agbabian | pagbabian-splunk | Splunk / Cisco |
+|  Rajas Panat | floydtree | 7AI |
+|  Kiran Ammati |  kiran-ammati | AWS |
+| Sridhar Muppidi | | IBM |
+
+Emeritus Steering Committee Members
+| **NAME** | **Handle** | **Affiliated Organization** | Years |
+| --- | --- | --- | --- |
+| Rajas Panat | floydtree | AWS | 2023 - 2026 |
+| Keith Gilbert | AWSSecEng | AWS | 2022 - 2024 |
+| Jason Keirstead | JasonKeirstead | IBM | 2023 - 2024 |
+| Rich Telljohann |  rtelljohann-ibm | IBM | 2024 - 2025 |
 
 ---
 Part of MVG-0.1-beta.
